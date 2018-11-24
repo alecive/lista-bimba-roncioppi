@@ -7,7 +7,17 @@
                 </div>
             </div>
 
-            {% assign items = site.data.list | sort: "price" %}
+            <!-- all the items -->
+            {% assign allitems  = site.data.list | sort  : "price" %}
+            <!-- only the available items (i.e. not already purchased) -->
+            {% assign available = allitems       | where : "taken", "false" %}
+            <!-- available items that are important -->
+            {% assign primary   = available      | where : "important", "true" %}
+            <!-- available items that are not important -->
+            {% assign secondary = available      | where : "important", "false" %}
+            <!-- items that are not available any more because they have been already purchased -->
+            {% assign purchased = allitems       | where : "taken", "true" %}
+            {% assign purchsize = purchased | size %}
 
             <ul class="nav nav-tabs">
                 <li class="nav-item">
@@ -32,44 +42,37 @@
             <div class="tab-content">
                 <div id="priority" class="tab-pane fade in active">
                     <div class="card-columns">
-                    {% for object in items reversed %}
-                        {% if object.taken %}
-                        {% elsif object.important %}
+                    {% for obj in primary reversed %}
                         <div class="card">
-                            <a href="{{ object.link }}" target="_blank">
+                            <a href="{{ obj.link }}" target="_blank">
                                 <div class="card-block">
-                                    <h4 class="card-title">{{ object.name }}</h4>
+                                    <h4 class="card-title">{{ obj.name }}</h4>
                                 </div>
-                                {% if object.img %}<img src="{{ object.img }}" alt="Card image"/>{% endif %}
+                                {% if obj.img %}<img src="{{ obj.img }}" alt="Card image"/>{% endif %}
                                 <div class="card-block">
-                                    <p class="card-text">{{ object.description }}</p>
-                                    <h4>$ {{ object.price }}</h4>
+                                    <p class="card-text">{{ obj.description }}</p>
+                                    <h4>$ {{ obj.price }}</h4>
                                 </div>
                             </a>
                         </div>
-                        {% endif %}
                     {% endfor %}
                     </div>
                 </div>
                 <div id="non-priority" class="tab-pane fade">
                     <div class="card-columns">
-                    {% for object in items reversed %}
-                        {% if object.taken %}
-                        {% elsif object.important %}
-                        {% else %}
+                    {% for obj in secondary reversed %}
                         <div class="card">
-                            <a href="{{ object.link }}" target="_blank">
+                            <a href="{{ obj.link }}" target="_blank">
                                 <div class="card-block">
-                                    <h4 class="card-title">{{ object.name }}</h4>
+                                    <h4 class="card-title">{{ obj.name }}</h4>
                                 </div>
-                                {% if object.img %}<img src="{{ object.img }}" alt="Card image"/>{% endif %}
+                                {% if obj.img %}<img src="{{ obj.img }}" alt="Card image"/>{% endif %}
                                 <div class="card-block">
-                                    <p class="card-text">{{ object.description }}</p>
-                                    <h4>$ {{ object.price }}</h4>
+                                    <p class="card-text">{{ obj.description }}</p>
+                                    <h4>$ {{ obj.price }}</h4>
                                 </div>
                             </a>
                         </div>
-                        {% endif %}
                     {% endfor %}
                     </div>
                 </div>
@@ -77,6 +80,7 @@
         </div>
     </section>
 
+    {% if purchsize != 0 %}
     <section class="success" id="portfolio">
         <div class="container">
             <div class="row">
@@ -88,24 +92,23 @@
             <div class="row">
                 <div class="col-lg-12 text-xs-center">
                     <div class="card-columns">
-                    {% for object in items reversed %}
-                        {% if object.taken %}
+                    {% for obj in purchased reversed %}
                         <div class="card">
-                            <a href="{{ object.link }}" target="_blank">
+                            <a href="{{ obj.link }}" target="_blank">
                                 <div class="card-block">
-                                    <h4 class="card-title">{{ object.name }}</h4>
+                                    <h4 class="card-title">{{ obj.name }}</h4>
                                 </div>
-                                {% if object.img %}<img src="{{ object.img }}" alt="Card image"/>{% endif %}
+                                {% if obj.img %}<img src="{{ obj.img }}" alt="Card image"/>{% endif %}
                                 <div class="card-block">
-                                    {% if object.purchaser %}<p class="card-text">Donato da: <i>{{ object.purchaser }}</i></p>{% endif %}
-                                    {% if object.message %}<p class="card-text">Messaggio: <i>{{ object.message }}</i></p>{% endif %}
+                                    {% if obj.purchaser %}<p class="card-text">Donato da: <i>{{ obj.purchaser }}</i></p>{% endif %}
+                                    {% if obj.message %}<p class="card-text">Messaggio: <i>{{ obj.message }}</i></p>{% endif %}
                                 </div>
                             </a>
                         </div>
-                        {% endif %}
                     {% endfor %}
                     </div>
                 </div>
             </div>
         </div>
     </section>
+    {% endif %}
