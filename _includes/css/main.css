@@ -173,37 +173,26 @@ header {
 }
 
 header.birth {
-    background-image: url("img/future.jpg");
-}
-
-header.baptism {
-    background-image: url("img/baptism.jpg");
-}
-
-@media(max-width:3840px) {
-    header.birth {
-        background-image: url("img/future_3840.jpg");
-    }
+    background-image: url("img/threeofus.jpg");
 }
 
 @media(max-width:2560px) {
     header.birth {
-        background-image: url("img/future_2560.jpg");
+        background-image: url("img/threeofus_2560.jpg");
     }
 }
 
 @media(max-width:1920px) {
     header.birth {
-        background-image: url("img/future_1920.jpg");
+        background-image: url("img/threeofus_1920.jpg");
     }
 }
 
 @media(max-width:1280px) {
     header.birth {
-        background-image: url("img/future_1280.jpg");
+        background-image: url("img/threeofus_1280.jpg");
     }
 }
-
 
 header .container {
     padding-top: 100px;
@@ -309,7 +298,6 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
     background: #{{ site.color.primary }};
 }
 
@@ -347,6 +335,10 @@ section.success {
 #portfolio {
     background-image: url("img/baby_background.svg");
     background-repeat: repeat;
+}
+
+#portfolio .success {
+    background-image: url("img/baby_background_m.svg");
 }
 
 #portfolio * {
