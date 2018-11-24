@@ -87,7 +87,7 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
-hr.star {
+hr.heart {
     max-width: 450px;
     margin: 20px auto 25px;
     padding: 0;
@@ -96,19 +96,19 @@ hr.star {
     text-align: center;
 }
 
-i.star {
-    font-size: 30px;
+i.heart {
+    font-size: 26px;
     display: inline-block;
     text-align: center;
     min-width: 100px;
 }
 
-.star.light {
+.heart.light {
     border-color: #fff;
     color: #fff;
 }
 
-hr.star.primary {
+hr.heart.primary {
     border-color: #{{ site.color.secondary }};
     color: #{{ site.color.secondary }};
 }
@@ -119,13 +119,13 @@ hr.star.primary {
 }
 
 @media(max-width: 550px) {
-    i.star {
+    i.heart {
         min-width: 90px;
     }
 }
 
 @media(max-width: 500px) {
-    i.star {
+    i.heart {
         min-width: 75px;
     }
 }
@@ -143,12 +143,12 @@ hr.star.primary {
 }
 
 @media(max-width: 576px) {
-    hr.star {
+    hr.heart {
         margin: 15px auto 20px;
         border-top: solid 3px;
     }
 
-    i.star,
+    i.heart,
     .nav-tabs .nav-item i {
         font-size: 24px;
     }
@@ -348,6 +348,10 @@ section.success {
     -webkit-column-count: 1;
     -moz-column-count: 1;
     column-count: 1;
+}
+
+.card-text {
+    font-weight: normal;
 }
 
 @media (min-width: 34em) {
