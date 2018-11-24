@@ -8,24 +8,23 @@ Container width     None (auto)     576px       720px       940px       1140px
 Class prefix        .col-xs-        .col-sm-    .col-md-    .col-lg-    .col-xl-
 */
 
-
 @font-face {
     font-family: 'Montserrat';
-    src: url("{{ site.url }}/fonts/Montserrat-Light.otf") format("opentype");
+    src: url("{{ site.baseurl }}/fonts/Montserrat-Regular.otf") format("opentype");
     font-weight: 700;
 }
 
 @font-face {
     font-family: 'Montserrat';
-    src: url("{{ site.url }}/fonts/Montserrat-UltraLight.otf") format("opentype");
+    src: url("{{ site.baseurl }}/fonts/Montserrat-Light.otf") format("opentype");
     font-weight: 300;
 }
 
-/*@font-face {
+@font-face {
     font-family: 'Montserrat';
-    src: url("{{ site.url }}/fonts/Montserrat-UltraLight.otf") format("opentype");
+    src: url("{{ site.baseurl }}/fonts/Montserrat-ExtraLight.otf") format("opentype");
     font-weight: 100;
-}*/
+}
 
 body {
     overflow-x: hidden;
@@ -35,7 +34,7 @@ body {
 body/*,
 .card-block p:first-child:first-letter*/
 {
-    font-family: 'Vollkorn', serif;
+    font-family: 'Muli', sans-serif;
 }
 
 p {
