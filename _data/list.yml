@@ -49,4 +49,28 @@
   important: false
   taken: false
 
+- name: Testiera
+  description: Proteggi craniate!
+  price: 29.88
+  img: https://images-na.ssl-images-amazon.com/images/I/61aTxeqebPL._SX522_.jpg
+  link: https://www.amazon.com/dp/B079RD497R/?coliid=I844KI3D1JJYO&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1
+  important: false
+  taken: false
+
+- name: Copertina
+  description: Anti-Freddo Continentale!
+  price: 19.99
+  img: https://images-na.ssl-images-amazon.com/images/I/71NAgJYOg5L._SL1001_.jpg
+  link: https://www.amazon.com/dp/B075SGNNBN/?coliid=I20GX4B32R6M4Z&colid=1JBRPK59LMJXU&th=1
+  important: true
+  taken: false
+
+- name: Copertina
+  description: Anti-Freddo Continentale!
+  price: 12.99
+  img: https://images-na.ssl-images-amazon.com/images/I/611Cam0vohL._SX522_.jpg
+  link: https://www.amazon.com/dp/B079MHV1TP/?coliid=I2TO18SAMLN6CA&colid=1JBRPK59LMJXU&th=1
+  important: true
+  taken: false
+
 
