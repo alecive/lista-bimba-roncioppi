@@ -8,14 +8,14 @@
 #   purchaser: Gianni Pinozzo
 #   message: Mi piaccciono le penne molto belle e mi fanno schifo gli orecchini marci
 
-# - name: Mustachifier
-#   description: Ciuccio simpatico
-#   price: 9.99
-#   img: https://images-na.ssl-images-amazon.com/images/I/61FSv-ugi3L._SX522_.jpg
-#   link: https://www.amazon.com/dp/B00AHO5SO2?psc=1
-#   important: false
-#   taken: true
-#   purchaser: Sarah's parents
+- name: Mustachifier
+  description: Ciuccio simpatico
+  price: 9.99
+  img: https://images-na.ssl-images-amazon.com/images/I/61FSv-ugi3L._SX522_.jpg
+  link: https://www.amazon.com/dp/B00AHO5SO2?psc=1
+  important: false
+  taken: true
+  purchaser: Sarah's parents
 
 - name: Catenella per ciuccio
   description: Per chi conosce bene la Giorgia potra' pensare che le tonalita' siano state scelte da lei...ma e' un maschietto!
@@ -32,3 +32,6 @@
   link: https://www.amazon.com/Medela-Breast-Milk-Feeding-Gift/dp/B001EU8IPY/ref=sr_1_1_s_it?s=baby-products&ie=UTF8&qid=1468419872&sr=1-1&keywords=Medela+Breastmilk+Feeding+Gift+Set
   important: false
   taken: false
+
+
+
