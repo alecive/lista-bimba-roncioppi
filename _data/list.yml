@@ -41,4 +41,12 @@
   important: true
   taken: false
 
+- name: Passeggino
+  description: Leggero e maneggevole:Ideale per i viaggiatori, e come ben sappiamo la bimba sara' sara' una poliglotta.
+  price: 239.95
+  img: https://images-na.ssl-images-amazon.com/images/I/61kr1wBsqKL._SX522_.jpg
+  link: https://www.amazon.com/dp/B07C6S1V2W/?coliid=IMSTMRBHKORP3&colid=1JBRPK59LMJXU&th=1
+  important: false
+  taken: false
+
 
