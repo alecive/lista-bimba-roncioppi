@@ -129,4 +129,28 @@
   important: true
   taken: false
 
+- name: Cappelini
+  description: In America l'usanza e' di tenere i bimbi avvolti in copertine con solo cappellini e calzine. Per questo c'e' abbondante necessita' di cappellini!
+  price: 8.99
+  img: https://images-na.ssl-images-amazon.com/images/I/51UIum01kXL._UX679_.jpg
+  link: https://www.amazon.com/dp/B07FF193LX/?coliid=IS2ABDBA938M4&colid=1JBRPK59LMJXU&psc=0
+  important: true
+  taken: false
+
+- name: Cappelini
+  description: In America l'usanza e' di tenere i bimbi avvolti in copertine con solo cappellini e calzine. Per questo c'e' abbondante necessita' di cappellini!
+  price: 14.95
+  img: https://images-na.ssl-images-amazon.com/images/I/71FrhVdr79L._UX679_.jpg
+  link: https://www.amazon.com/dp/B078JXH526/?coliid=I1WK8NF07RWMIU&colid=1JBRPK59LMJXU&psc=0
+  important: true
+  taken: false
+
+- name: Tutina
+  description: Caldo soprabiti
+  price: 29.98
+  img: https://images-na.ssl-images-amazon.com/images/I/81sVp66caNL._UX679_.jpg
+  link: https://www.amazon.com/dp/B0765CHDTT/?coliid=I3CCD34W70IO5J&colid=1JBRPK59LMJXU&th=1&psc=1
+  important: true
+  taken: false
+
 
