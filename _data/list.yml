@@ -97,4 +97,36 @@
   important: true
   taken: false
 
+- name: Lenzuola
+  description: Lettino
+  price: 20.99
+  img: https://images-na.ssl-images-amazon.com/images/I/71D%2BhyH-AgL._SX522_.jpg
+  link: https://www.amazon.com/dp/B06WGXZ8WD/?coliid=I3I7TB8Y9JFWZW&colid=1JBRPK59LMJXU&th=1
+  important: false
+  taken: false
+
+- name: Lenzuola
+  description: 2 lenzuola per culla con angoli.
+  price: 17.99
+  img: https://images-na.ssl-images-amazon.com/images/I/91x3lOy1I%2BL._SX522_.jpg
+  link: https://www.amazon.com/dp/B07FDFL8PW/?coliid=I3N2UDWRXDNT56&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1
+  important: true
+  taken: false
+
+- name: Lenzuola
+  description: 2 lenzuola per culla con angoli, waterproof.
+  price: 39.98
+  img: https://images-na.ssl-images-amazon.com/images/I/819CVN0rCjL._SX522_.jpg
+  link: https://www.amazon.com/Waterproof-Bassinet-Mattress-Stripes-Splash/dp/B07H44WZCL/ref=olp_product_details?_encoding=UTF8&me=
+  important: false
+  taken: false
+
+- name: Lenzuola
+  description: 3 lenzuola per culla con angoli.
+  price: 19.99
+  img: https://images-na.ssl-images-amazon.com/images/I/61E3byuQiiL._SX522_.jpg
+  link: https://www.amazon.com/dp/B07GFBMQ8Q/?coliid=I2V67R0K5WGFN2&colid=1JBRPK59LMJXU&psc=0
+  important: true
+  taken: false
+
 
