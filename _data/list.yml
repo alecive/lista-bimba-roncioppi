@@ -33,5 +33,12 @@
   important: false
   taken: false
 
+- name: Seggiolino Macchina
+  description: Finalmente abbiamo una macchina!!! La bimba potra' godere di uno splendido seggiolino da macchina reclinabile.
+  price: 139.99
+  img: https://images-na.ssl-images-amazon.com/images/I/71NdTkhX2rL._SY679_.jpg
+  link: https://www.amazon.com/dp/B079W46W4L/?coliid=I2QEBZG2JB3I6P&colid=1JBRPK59LMJXU&th=1
+  important: true
+  taken: false
 
 
