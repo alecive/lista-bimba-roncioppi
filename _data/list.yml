@@ -73,4 +73,28 @@
   important: true
   taken: false
 
+- name: Palestrina
+  description: Sappiamo ben come trascorrera' la maggior parte del suo tempo con questo "gioco"!
+  price: 59.39
+  img: https://images-na.ssl-images-amazon.com/images/I/91aFjEAp9NL._SX522_.jpg
+  link: https://www.amazon.com/dp/B00DJPKA76/?coliid=I36IXLRF73LE8Z&colid=1JBRPK59LMJXU&psc=0
+  important: true
+  taken: false
+
+- name: Jumper
+  description: Dopo 9 mesi nella pancia della mamma, facendo Judo, giocando a Tennis, correndo e saltando la bimba non potra' che amare il jumper!
+  price: 60.00
+  img: https://images-na.ssl-images-amazon.com/images/I/81qNB51zebL._SX522_.jpg
+  link: https://www.amazon.com/dp/B00JU949AE/?coliid=I2FCI4SUZYW2H7&colid=1JBRPK59LMJXU&th=1
+  important: false
+  taken: false
+
+- name: Porta Foto e Impronte
+  description: Un ricordo che restera' per sempre!
+  price: 23.95
+  img: https://images-na.ssl-images-amazon.com/images/I/81gNwFYQREL._SX522_.jpg
+  link: https://www.amazon.com/dp/B01N5K0VLV/?coliid=I1BCI9O0DW0Z0A&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1
+  important: true
+  taken: false
+
 
