@@ -236,11 +236,11 @@
   link: https://www.amazon.com/dp/B01C3H4ZTY/?coliid=I2BAXX0PISPRKI&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
   taken: false
 
-- name: Salviette da viaggio
-  description: 9 pacchi di salviettine portatili
-  price: 13.91
-  img: https://images-na.ssl-images-amazon.com/images/I/81LXZDjUq2L._SX522_.jpg
-  link: https://www.amazon.com/dp/B01C3H4ZTY/?coliid=I2BAXX0PISPRKI&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
+- name: Tappetino d'erba
+  description: Comodo e igienico scola biberon.
+  price: 12.99
+  img: https://images-na.ssl-images-amazon.com/images/I/61htjk0ZmXL._SX522_.jpg
+  link: https://www.amazon.com/dp/B01BVEF986/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B01BVEF986&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=f0dedbe2-13c8-4136-a746-4398ed93cf0f&pd_rd_wg=Zalyn&pf_rd_r=1GH6BX756FFETE8ZX4H6&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&pd_rd_w=jUkI9&pf_rd_i=desktop-dp-sims&pd_rd_r=72d17b25-f4e1-11e8-a1a5-bf83107fa97c
   taken: false
 
 - name: Catenelle Ciuccio
@@ -255,4 +255,39 @@
   price: 4.32
   img: https://images-na.ssl-images-amazon.com/images/I/619sVEczCcL._SX522_.jpg
   link: https://www.amazon.com/dp/B0081ZOWC8/?coliid=I1RFJ1LQIU0PKN&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1
+  taken: false
+
+  - name: Tappetino d'erba
+  description: Comodo e igienico scola biberon.
+  price: 12.99
+  img: https://images-na.ssl-images-amazon.com/images/I/61htjk0ZmXL._SX522_.jpg
+  link: https://www.amazon.com/dp/B01BVEF986/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B01BVEF986&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=f0dedbe2-13c8-4136-a746-4398ed93cf0f&pd_rd_wg=Zalyn&pf_rd_r=1GH6BX756FFETE8ZX4H6&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&pd_rd_w=jUkI9&pf_rd_i=desktop-dp-sims&pd_rd_r=72d17b25-f4e1-11e8-a1a5-bf83107fa97c
+  taken: false
+
+- name: Scopettino
+  description: Pulisci Biberon
+  price: 12.99
+  img: https://images-na.ssl-images-amazon.com/images/I/61htjk0ZmXL._SX522_.jpg
+  link: https://www.amazon.com/dp/B07DQP9JM8/ref=sspa_dk_detail_0?pd_rd_i=B07DQP9JM8&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=f0dedbe2-13c8-4136-a746-4398ed93cf0f&pd_rd_wg=ThxUt&pf_rd_r=H60WETMS9BK67HVM9D8F&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&pd_rd_w=4v4ys&pf_rd_i=desktop-dp-sims&pd_rd_r=09ad5211-f4e2-11e8-a366-051c2b9cd969&th=1
+  taken: false
+
+- name: Mangiapannolini
+  description: Dopo le gioie che Leonardo ci ha regalato, mi sono ripromessa che non avrei rifatto lo stesso errore, non si puo' vivere senza mangia pannolini!
+  price: 64.99
+  img: https://images-na.ssl-images-amazon.com/images/I/71yKIY2vqCL._SX522_.jpg
+  link: https://www.amazon.com/dp/B01BDQDIGM/?coliid=I3UY81GXK2FJWV&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
+  taken: false
+
+- name: Cuscino da allattamento
+  description: Accompagnera' la bimba nei primi anni di vita, poiche' la aiutera' a fare la pappa, a stare di pancia e seduta.
+  price: 29.99
+  img: https://images-na.ssl-images-amazon.com/images/I/71rG8rX%2BC8L._SX522_.jpg
+  link: https://www.amazon.com/Boppy-Nursing-Pillow-Positioner-Naked/dp/B000KW5I6E/ref=pd_rhf_ee_s_cp_0_1?_encoding=UTF8&pd_rd_i=B000KW5I6E&pd_rd_r=2ca4ff94-97b3-4553-ba6d-f67cf507848c&pd_rd_w=PWWuB&pd_rd_wg=WNPGZ&psc=1&refRID=95R4W13HJV3ZYSE9JQ6B
+  taken: false
+
+- name: Crema portatile
+  description: 3 Paste protettive per la salute del sederino
+  price: 4.32
+  img: https://images-na.ssl-images-amazon.com/images/I/81q7rHPsgzL._SX522AA522_PIbundle-3,TopRight,0,0_AA522_SH20_.jpg
+  link: https://www.amazon.com/dp/B00Q2MYU9W/?coliid=IRMK02FH1DV2K&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
   taken: false
