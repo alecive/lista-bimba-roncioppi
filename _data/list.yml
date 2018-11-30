@@ -74,7 +74,7 @@
 
 - name: Jumper
   description: Dopo 9 mesi nella pancia della mamma, facendo Judo, giocando a Tennis, correndo e saltando la bimba non potra' che amare il jumper!
-  price: 60.00
+  price: 99.00
   img: https://images-na.ssl-images-amazon.com/images/I/81qNB51zebL._SX522_.jpg
   link: https://www.amazon.com/dp/B00JU949AE/?coliid=I2FCI4SUZYW2H7&colid=1JBRPK59LMJXU&th=1
   important: false
@@ -137,10 +137,34 @@
   taken: false
 
 - name: Tutina
-  description: Caldo soprabiti
+  description: Caldo soprabito
   price: 29.98
   img: https://images-na.ssl-images-amazon.com/images/I/81sVp66caNL._UX679_.jpg
   link: https://www.amazon.com/dp/B0765CHDTT/?coliid=I3CCD34W70IO5J&colid=1JBRPK59LMJXU&th=1&psc=1
+  important: true
+  taken: false
+
+- name: Pannolini
+  description: Abbonamento mensile
+  price: 45.87
+  img: https://images-na.ssl-images-amazon.com/images/I/91jHt2V-M6L._SX522_.jpg
+  link: https://www.amazon.com/dp/B07DCCP3Y1/?coliid=I2L8EMIRCPERB1&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1
+  important: true
+  taken: false
+
+- name: Bavaglini
+  description: 10 bavaglini a bandana comodi e super cool!
+  price: 17.98
+  img: https://images-na.ssl-images-amazon.com/images/I/81sVp66caNL._UX679_.jpg
+  link: https://www.amazon.com/dp/B01FCIWYKI/?coliid=IRPC2PKJW7QDM&colid=1JBRPK59LMJXU&th=1
+  important: true
+  taken: false
+
+- name: Bavaglini Anti-Rigurgito
+  description: 5 asciugamani a protezione di couli/lei che si accinge ad eseguire il ruttino post-pappa!
+  price: 19.95
+  img: https://images-na.ssl-images-amazon.com/images/I/81ak29XixZL._SX522_.jpg
+  link: https://www.amazon.com/dp/B0784QZG54/?coliid=I2LFPP3WTUXA3Z&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
   important: true
   taken: false
 
