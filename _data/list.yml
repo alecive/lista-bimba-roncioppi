@@ -192,4 +192,26 @@
   important: true
   taken: false
 
+- name: Vestitino
+  description:
+  price: 14.02
+  img: https://images-na.ssl-images-amazon.com/images/I/61G0niZFswL._UX679_.jpg
+  link: https://www.amazon.com/dp/B07587MS3B/?coliid=IIQ4EJHG3HIOY&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1&psc=1
+  important: true
+  taken: false
+
+- name: Body
+  description: 6 body smanicati.
+  price: 14.70
+  img: https://images-na.ssl-images-amazon.com/images/I/91CaiNkT2DL._UY879_.jpg
+  link: https://www.amazon.com/dp/B073X13JL9/?coliid=I2E2XI08MIPDJW&colid=1JBRPK59LMJXU&psc=0
+  important: true
+  taken: false
+
+- name: Copertina
+  description: Copertina a forma di orsetto
+  price: 15.99
+  img: https://images-na.ssl-images-amazon.com/images/I/41ffsMj47qL.jpg
+  link: https://www.amazon.com/dp/B07GFK3YFF/?coliid=I3F2ZUVWVC83BU&colid=1JBRPK59LMJXU&psc=0
+  taken: false
 
