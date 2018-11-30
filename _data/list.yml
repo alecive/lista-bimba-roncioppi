@@ -243,16 +243,16 @@
   link: https://www.amazon.com/dp/B01C3H4ZTY/?coliid=I2BAXX0PISPRKI&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
   taken: false
 
-- name: Salviette da viaggio
-  description: 9 pacchi di salviettine portatili
-  price: 13.91
-  img: https://images-na.ssl-images-amazon.com/images/I/81LXZDjUq2L._SX522_.jpg
-  link: https://www.amazon.com/dp/B01C3H4ZTY/?coliid=I2BAXX0PISPRKI&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
+- name: Catenelle Ciuccio
+  description: 4 catenelle porta ciuccio...Molto Rosa!!!
+  price: 9.95
+  img: https://images-na.ssl-images-amazon.com/images/I/91Wr-QomjCL._SX522_.jpg
+  link: https://www.amazon.com/dp/B074J8G8G5/?coliid=I1WZO2886KV9IH&colid=1JBRPK59LMJXU&psc=0
   taken: false
 
-- name: Salviette da viaggio
-  description: 9 pacchi di salviettine portatili
-  price: 13.91
-  img: https://images-na.ssl-images-amazon.com/images/I/81LXZDjUq2L._SX522_.jpg
-  link: https://www.amazon.com/dp/B01C3H4ZTY/?coliid=I2BAXX0PISPRKI&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
+- name: Ciucci
+  description: 2 ciucci, adatti per i primi mesi.
+  price: 4.32
+  img: https://images-na.ssl-images-amazon.com/images/I/619sVEczCcL._SX522_.jpg
+  link: https://www.amazon.com/dp/B0081ZOWC8/?coliid=I1RFJ1LQIU0PKN&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1
   taken: false
