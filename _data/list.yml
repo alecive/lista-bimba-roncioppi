@@ -155,7 +155,7 @@
 - name: Bavaglini
   description: 10 bavaglini a bandana comodi e super cool!
   price: 17.98
-  img: https://images-na.ssl-images-amazon.com/images/I/81sVp66caNL._UX679_.jpg
+  img: https://images-na.ssl-images-amazon.com/images/I/81g3y-Hgb8L._SX522_.jpg
   link: https://www.amazon.com/dp/B01FCIWYKI/?coliid=IRPC2PKJW7QDM&colid=1JBRPK59LMJXU&th=1
   important: true
   taken: false
@@ -165,6 +165,30 @@
   price: 19.95
   img: https://images-na.ssl-images-amazon.com/images/I/81ak29XixZL._SX522_.jpg
   link: https://www.amazon.com/dp/B0784QZG54/?coliid=I2LFPP3WTUXA3Z&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
+  important: true
+  taken: false
+
+- name: Asciugamani
+  description: Set composto da 3 asciugamani da doccia e 20 asciugamanini.
+  price: 20.99
+  img: https://images-na.ssl-images-amazon.com/images/I/81QvgKN6h1L._SX522_.jpg
+  link: https://www.amazon.com/dp/B0721581F6/?coliid=I2XNKDYSPPHH8K&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1
+  important: true
+  taken: false
+
+- name: Scarpocini
+  description: Calzine a forma di stivaletto, maglia fuori e pelose dentro.
+  price: 3.97
+  img: https://images-na.ssl-images-amazon.com/images/I/61QfQqG4WfL._SL1000_.jpg
+  link: https://www.amazon.com/dp/B076C8LMH2/?coliid=I3RTVCDPXHZAH5&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1&psc=1
+  important: true
+  taken: false
+
+- name: Body
+  description: 5 adorabili body dalle rosee tonalita'.
+  price: 14.70
+  img: https://images-na.ssl-images-amazon.com/images/I/81fbiSrqXvL._UX679_.jpg
+  link: https://www.amazon.com/dp/B07D92PYH2/ref=twister_B00LI06IOI?_encoding=UTF8&coliid=I33EHFGYLDT29O&colid=1JBRPK59LMJXU&th=1&psc=1
   important: true
   taken: false
 
