@@ -215,3 +215,44 @@
   link: https://www.amazon.com/dp/B07GFK3YFF/?coliid=I3F2ZUVWVC83BU&colid=1JBRPK59LMJXU&psc=0
   taken: false
 
+- name: Copertina
+  description: Copertina/Sacco maglia fuori pellicciosa dentro (Per combattere il freddo che ci attende!)
+  price: 17.85
+  img: https://images-na.ssl-images-amazon.com/images/I/61nQMzUzrHL._SX522_.jpg
+  link: https://www.amazon.com/dp/B07GXMHVJ2/?coliid=I3SYYPNUJ7EVY3&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1
+  taken: false
+
+- name: Copertina
+  description: Copertina/Sacco maglia (si, avete capito bene, siamo terrorizzati dalle temperature che potrebbero esserci a Gennaio :)
+  price: 17.99
+  img: https://images-na.ssl-images-amazon.com/images/I/61BGCfySyPL._SX522_.jpg
+  link: https://www.amazon.com/dp/B01N7BN23M/?coliid=I1WR24153TA4CO&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1
+  taken: false
+
+- name: Salviette da viaggio
+  description: 9 pacchi di salviettine portatili
+  price: 13.91
+  img: https://images-na.ssl-images-amazon.com/images/I/81LXZDjUq2L._SX522_.jpg
+  link: https://www.amazon.com/dp/B01C3H4ZTY/?coliid=I2BAXX0PISPRKI&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
+  taken: false
+
+- name: Salviette da viaggio
+  description: 9 pacchi di salviettine portatili
+  price: 13.91
+  img: https://images-na.ssl-images-amazon.com/images/I/81LXZDjUq2L._SX522_.jpg
+  link: https://www.amazon.com/dp/B01C3H4ZTY/?coliid=I2BAXX0PISPRKI&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
+  taken: false
+
+- name: Salviette da viaggio
+  description: 9 pacchi di salviettine portatili
+  price: 13.91
+  img: https://images-na.ssl-images-amazon.com/images/I/81LXZDjUq2L._SX522_.jpg
+  link: https://www.amazon.com/dp/B01C3H4ZTY/?coliid=I2BAXX0PISPRKI&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
+  taken: false
+
+- name: Salviette da viaggio
+  description: 9 pacchi di salviettine portatili
+  price: 13.91
+  img: https://images-na.ssl-images-amazon.com/images/I/81LXZDjUq2L._SX522_.jpg
+  link: https://www.amazon.com/dp/B01C3H4ZTY/?coliid=I2BAXX0PISPRKI&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
+  taken: false
