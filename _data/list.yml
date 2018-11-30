@@ -8,15 +8,6 @@
 #   purchaser: Gianni Pinozzo
 #   message: Mi piaccciono le penne molto belle e mi fanno schifo gli orecchini marci
 
-- name: Mustachifier
-  description: Ciuccio simpatico
-  price: 9.99
-  img: https://images-na.ssl-images-amazon.com/images/I/61FSv-ugi3L._SX522_.jpg
-  link: https://www.amazon.com/dp/B00AHO5SO2?psc=1
-  important: false
-  taken: true
-  purchaser: Sarah's parents
-
 - name: Sdraietta
   description: Se buon sangue non mente anche la bimba sara' bella energica, speriamo che questa sdraietta possa farla divertire e possa dare un po' di pace ai genitori, coccolandola!
   price: 68.64

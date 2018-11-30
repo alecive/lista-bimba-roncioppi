@@ -19,7 +19,28 @@
             {% assign purchased = allitems       | where : "taken", "true" %}
             {% assign purchsize = purchased | size %}
 
-            <ul class="nav nav-tabs">
+            <div class="row">
+                <div class="col-lg-12 text-xs-center">
+                    <div class="card-columns">
+                    {% for obj in available reversed %}
+                        <div class="card">
+                            <a href="{{ obj.link }}" target="_blank">
+                                <div class="card-block">
+                                    <h4 class="card-title">{{ obj.name }}</h4>
+                                </div>
+                                {% if obj.img %}<img src="{{ obj.img }}" alt="Card image"/>{% endif %}
+                                <div class="card-block">
+                                    <p class="card-text">{{ obj.description }}</p>
+                                    <h4>$ {{ obj.price }}</h4>
+                                </div>
+                            </a>
+                        </div>
+                    {% endfor %}
+                    </div>
+                </div>
+            </div>
+
+            <!-- <ul class="nav nav-tabs">
                 <li class="nav-item">
                     <a  class="nav-link active" data-toggle="tab" href="#priority">
                         <i  class="sacrifice heart {{ include.type }} fas fa-heart" aria-hidden="true"></i>
@@ -76,7 +97,7 @@
                     {% endfor %}
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
 
