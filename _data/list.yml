@@ -348,6 +348,20 @@
   link: https://www.amazon.com/dp/B07DPCVXPT/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07DPCVXPT&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=f0dedbe2-13c8-4136-a746-4398ed93cf0f&pd_rd_wg=VQHch&pf_rd_r=3E3AXRKZPEPXP0H2NSPX&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&pd_rd_w=AgShL&pf_rd_i=desktop-dp-sims&pd_rd_r=7154aad2-f801-11e8-9d0f-75fb62e29c0e
   taken: false
 
+- name: Biberon
+  description: 3 Biberon media dimensione
+  price: 14.53
+  img: https://images-na.ssl-images-amazon.com/images/I/71fdG0TBPIL._SX522_.jpg
+  link: https://www.amazon.com/dp/B000WPVCQE/?coliid=I3QARSOREY6801&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1
+  taken: false
+
+- name: Biberon
+  description: 3 Biberon con tettarella
+  price: 18.99
+  img: https://images-na.ssl-images-amazon.com/images/I/71aJn728DeL._SX522_.jpg
+  link: https://www.amazon.com/dp/B001V9EVCM/?coliid=I2O4LIH7YYSGER&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1
+  taken: false
+
 
 
 
