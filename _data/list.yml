@@ -334,5 +334,20 @@
   link: https://www.amazon.com/dp/B07DQQFP63/ref=twister_B07HQX5Q32?_encoding=UTF8&th=1
   taken: false
 
+- name: Calzini
+  description: Set 8 paia
+  price: 10.91
+  img: https://images-na.ssl-images-amazon.com/images/I/91mWeWtdZhL._UX679_.jpg
+  link: https://www.amazon.com/Luvable-Friends-Unisex-Newborn-Ballet/dp/B00X243BH0/ref=sr_1_4_s_it?s=baby-products&ie=UTF8&qid=1543954030&sr=1-4&keywords=baby%2Bgirl%2Bsocks%2B0-6%2Bmonths&th=1&psc=1
+  taken: false
+
+- name: Swaddle
+  description: 4 copertine pre-formate per avvolgere la bimba durante i suoi sonnellini!
+  price: 19.99
+  img: https://images-na.ssl-images-amazon.com/images/I/81-tYaAz3eL._SL1500_.jpg
+  link: https://www.amazon.com/dp/B07DPCVXPT/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07DPCVXPT&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=f0dedbe2-13c8-4136-a746-4398ed93cf0f&pd_rd_wg=VQHch&pf_rd_r=3E3AXRKZPEPXP0H2NSPX&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&pd_rd_w=AgShL&pf_rd_i=desktop-dp-sims&pd_rd_r=7154aad2-f801-11e8-9d0f-75fb62e29c0e
+  taken: false
+
+
 
 
