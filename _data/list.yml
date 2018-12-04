@@ -272,7 +272,7 @@
   taken: false
 
 - name: Mangiapannolini
-  description: Dopo le gioie che Leonardo ci ha regalato, mi sono ripromessa che non avrei rifatto lo stesso errore, non si puo' vivere senza mangia pannolini!
+  description: Dopo le gioie che Leonardo ci ha regalato, mi sono ripromessa che non avrei rifatto lo stesso errore, non si puo' vivere senza mangia pannolini! (Sacchetti https://www.amazon.com/Munchkin-Hammer-Diaper-Refill-Count/dp/B01B85WBA2/ref=pd_bxgy_75_img_2?_encoding=UTF8&pd_rd_i=B01B85WBA2&pd_rd_r=eb959d0f-f7fc-11e8-ac1c-453316c99f93&pd_rd_w=zdPLN&pd_rd_wg=crKA0&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=6725dbd6-9917-451d-beba-16af7874e407&pf_rd_r=HC0ZGNQ90RY0JRWS7PBW&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&refRID=HC0ZGNQ90RY0JRWS7PBW&th=1)
   price: 64.99
   img: https://images-na.ssl-images-amazon.com/images/I/71yKIY2vqCL._SX522_.jpg
   link: https://www.amazon.com/dp/B01BDQDIGM/?coliid=I3UY81GXK2FJWV&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
@@ -292,7 +292,7 @@
   link: https://www.amazon.com/dp/B00Q2MYU9W/?coliid=IRMK02FH1DV2K&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
   taken: false
 
-- name: Copri fasciatoi
+- name: Copri fasciatoio
   description: 2 lenzuolina copri materassino facsiatoio
   price: 13.99
   img: https://images-na.ssl-images-amazon.com/images/I/7126yPDkNaL._SX522_.jpg
@@ -312,5 +312,27 @@
   img: https://images-na.ssl-images-amazon.com/images/I/71wN1loVwSL._SX522_.jpg
   link: https://www.amazon.com/dp/B07DNTFSG7/?coliid=I1VTPMQKA1PRHT&colid=1JBRPK59LMJXU&psc=0
   taken: false
+
+- name: Pasta protettiva
+  description: Super crema per il sederino!
+  price: 12.97
+  img: https://images-na.ssl-images-amazon.com/images/I/81VKaEvvOLL._SX522_.jpg
+  link: https://www.amazon.com/dp/B003DN1WJY/?coliid=I1B6GHOLN1WI6I&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1
+  taken: false
+
+- name: Pedana
+  description: Seduta esterna per passeggino, per il piccolo fratello maggiore.
+  price: 95.89
+  img: https://images-na.ssl-images-amazon.com/images/I/718hi6CYBhL._SX522_.jpg
+  link: https://www.amazon.com/dp/B0194QWCMY/?coliid=I3NZAKZT2UB5Y0&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
+  taken: false
+
+- name: Culla
+  description: Confortevole per la nanna e reversibile in fasciatoio.
+  price: 134.63
+  img: https://images-na.ssl-images-amazon.com/images/I/61vhn3qXNML._SY679_.jpg
+  link: https://www.amazon.com/dp/B01BGVM0G8/ref=twister_B07GRGZRWQ?_encoding=UTF8&coliid=I8ZQZKDWQSK7J&colid=1JBRPK59LMJXU&th=1
+  taken: false
+
 
 
