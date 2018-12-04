@@ -292,4 +292,25 @@
   link: https://www.amazon.com/dp/B00Q2MYU9W/?coliid=IRMK02FH1DV2K&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
   taken: false
 
+- name: Copri fasciatoi
+  description: 2 lenzuolina copri materassino facsiatoio
+  price: 13.99
+  img: https://images-na.ssl-images-amazon.com/images/I/7126yPDkNaL._SX522_.jpg
+  link: https://www.amazon.com/dp/B0787RQQ5L/?coliid=I3EQYQNQE2LAHK&colid=1JBRPK59LMJXU&th=1
+  taken: false
+
+- name: materassino per fasciatoio
+  description: lavabile e waterproof
+  price: 17.99
+  img: https://images-na.ssl-images-amazon.com/images/I/81%2Bev0VHJHL._SX522_.jpg
+  link: https://www.amazon.com/Summer-Infant-Contoured-Changing-Pad/dp/B009EDSWJA/ref=pd_sbs_75_5?_encoding=UTF8&pd_rd_i=B009EDSWJA&pd_rd_r=c1533e2a-f7fb-11e8-b350-efdd314ccdb1&pd_rd_w=OyJA8&pd_rd_wg=TItqB&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=J3MX5R89YCWVCBT008YA&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&refRID=J3MX5R89YCWVCBT008YA&th=1
+  taken: false
+
+- name: Federa per cuscino allattamento
+  description: 2 cover
+  price: 12.99
+  img: https://images-na.ssl-images-amazon.com/images/I/71wN1loVwSL._SX522_.jpg
+  link: https://www.amazon.com/dp/B07DNTFSG7/?coliid=I1VTPMQKA1PRHT&colid=1JBRPK59LMJXU&psc=0
+  taken: false
+
 
