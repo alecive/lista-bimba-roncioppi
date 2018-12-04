@@ -257,13 +257,6 @@
   link: https://www.amazon.com/dp/B0081ZOWC8/?coliid=I1RFJ1LQIU0PKN&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1
   taken: false
 
-- name: Tappetino d'erba
-  description: Comodo e igienico scola biberon.
-  price: 12.99
-  img: https://images-na.ssl-images-amazon.com/images/I/61htjk0ZmXL._SX522_.jpg
-  link: https://www.amazon.com/dp/B01BVEF986/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B01BVEF986&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=f0dedbe2-13c8-4136-a746-4398ed93cf0f&pd_rd_wg=Zalyn&pf_rd_r=1GH6BX756FFETE8ZX4H6&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&pd_rd_w=jUkI9&pf_rd_i=desktop-dp-sims&pd_rd_r=72d17b25-f4e1-11e8-a1a5-bf83107fa97c
-  taken: false
-
 - name: Scopettino
   description: Pulisci Biberon
   price: 12.99
@@ -272,7 +265,7 @@
   taken: false
 
 - name: Mangiapannolini
-  description: Dopo le gioie che Leonardo ci ha regalato, mi sono ripromessa che non avrei rifatto lo stesso errore, non si puo' vivere senza mangia pannolini! (Sacchetti https://www.amazon.com/Munchkin-Hammer-Diaper-Refill-Count/dp/B01B85WBA2/ref=pd_bxgy_75_img_2?_encoding=UTF8&pd_rd_i=B01B85WBA2&pd_rd_r=eb959d0f-f7fc-11e8-ac1c-453316c99f93&pd_rd_w=zdPLN&pd_rd_wg=crKA0&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=6725dbd6-9917-451d-beba-16af7874e407&pf_rd_r=HC0ZGNQ90RY0JRWS7PBW&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&refRID=HC0ZGNQ90RY0JRWS7PBW&th=1)
+  description: Dopo le gioie che Leonardo ci ha regalato, mi sono ripromessa che non avrei rifatto lo stesso errore, non si puo' vivere senza mangia pannolini!
   price: 64.99
   img: https://images-na.ssl-images-amazon.com/images/I/71yKIY2vqCL._SX522_.jpg
   link: https://www.amazon.com/dp/B01BDQDIGM/?coliid=I3UY81GXK2FJWV&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
@@ -332,6 +325,13 @@
   price: 134.63
   img: https://images-na.ssl-images-amazon.com/images/I/61vhn3qXNML._SY679_.jpg
   link: https://www.amazon.com/dp/B01BGVM0G8/ref=twister_B07GRGZRWQ?_encoding=UTF8&coliid=I8ZQZKDWQSK7J&colid=1JBRPK59LMJXU&th=1
+  taken: false
+
+- name: Scopettino
+  description: Pulisci Biberon
+  price: 6.99
+  img: https://images-na.ssl-images-amazon.com/images/I/81AwbC0OXgL._SX522_.jpg
+  link: https://www.amazon.com/dp/B07DQQFP63/ref=twister_B07HQX5Q32?_encoding=UTF8&th=1
   taken: false
 
 
