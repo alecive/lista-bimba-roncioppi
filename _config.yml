@@ -10,6 +10,11 @@ meta_author: Alessandro Roncone
 # Google webmaster tools
 # google_verify: 1fM5KCFImdJuWeo8L_Qo7_-tuItbZ5hoIlGg8g14WkY
 
+plugins:
+  - jekyll-sitemap
+  - rouge
+  - jemoji
+
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: ffebf3
