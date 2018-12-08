@@ -404,9 +404,9 @@ section.success {
     }
 
     #facceda .card-columns {
-        -webkit-column-count: 5;
-        -moz-column-count: 5;
-        column-count: 5;
+        -webkit-column-count: 6;
+        -moz-column-count: 6;
+        column-count: 6;
     }
 }
 
@@ -431,9 +431,9 @@ section.success {
 }
 
 #facceda .card-columns {
-    -webkit-column-gap: 0px; /* Chrome, Safari, Opera */
-    -moz-column-gap: 0px; /* Firefox */
-    column-gap: 0px;
+    -webkit-column-gap: 1rem; /* Chrome, Safari, Opera */
+    -moz-column-gap: 1rem; /* Firefox */
+    column-gap: 1rem;
 }
 
 #facceda .card {

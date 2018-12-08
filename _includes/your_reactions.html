@@ -14,16 +14,14 @@
             </div>
         </div>
         <div class="container-fluid">
-            <div class="row-fluid">
-                <div class="card-columns">
-                    {% for object in site.data.mosaic %}
-                        <div class="card">
-                            <a href="{% if object.link %}{{ object.link }}{% else %}img/mosaic/{{ object.filename }}{% endif %}" target="_blank">
-                                <img class="card-img-top" src="img/mosaic/{{ object.filename }}" alt="Card image cap">
-                            </a>
-                        </div>
-                    {% endfor %}
-                </div>
+            <div class="card-columns">
+                {% for object in site.data.mosaic %}
+                    <div class="card mb-3">
+                        <a href="{% if object.link %}{{ object.link }}{% else %}img/mosaic/{{ object.filename }}{% endif %}" target="_blank">
+                            <img class="card-img-top" src="img/mosaic/{{ object.filename }}" alt="Card image cap">
+                        </a>
+                    </div>
+                {% endfor %}
             </div>
         </div>
     </section>
