@@ -1,7 +1,7 @@
     <section id="portfolio">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-xs-center section-header">
+                <div class="col-lg-12 text-center section-header">
                     <h2>Available gifts</h2>
                     {% include heart.html type="primary" %}
                 </div>
@@ -20,7 +20,7 @@
             {% assign purchsize = purchased | size %}
 
             <div class="row">
-                <div class="col-lg-12 text-xs-center">
+                <div class="col-lg-12 text-center">
                     <div class="card-columns">
                     {% for obj in available reversed %}
                         <div class="card">
@@ -39,65 +39,6 @@
                     </div>
                 </div>
             </div>
-
-            <!-- <ul class="nav nav-tabs">
-                <li class="nav-item">
-                    <a  class="nav-link active" data-toggle="tab" href="#priority">
-                        <i  class="sacrifice heart {{ include.type }} fas fa-heart" aria-hidden="true"></i>
-                        <i  class="supersacrifice heart {{ include.type }} fas fa-heart" aria-hidden="true"></i>
-                        Prioritari
-                        <i  class="supersacrifice heart {{ include.type }} fas fa-heart" aria-hidden="true"></i>
-                        <i  class="sacrifice heart {{ include.type }} fas fa-heart" aria-hidden="true"></i>
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a  class="nav-link" data-toggle="tab" href="#non-priority">
-                        <i  class="sacrifice heart {{ include.type }} fas fa-heart" aria-hidden="true"></i>
-                        <i  class="supersacrifice heart {{ include.type }} fas fa-heart" aria-hidden="true"></i>
-                        Secondari
-                        <i  class="supersacrifice heart {{ include.type }} fas fa-heart" aria-hidden="true"></i>
-                        <i  class="sacrifice heart {{ include.type }} fas fa-heart" aria-hidden="true"></i>
-                    </a>
-                </li>
-            </ul>
-            <div class="tab-content">
-                <div id="priority" class="tab-pane fade in active">
-                    <div class="card-columns">
-                    {% for obj in primary reversed %}
-                        <div class="card">
-                            <a href="{{ obj.link }}" target="_blank">
-                                <div class="card-block">
-                                    <h4 class="card-title">{{ obj.name }}</h4>
-                                </div>
-                                {% if obj.img %}<img src="{{ obj.img }}" alt="Card image"/>{% endif %}
-                                <div class="card-block">
-                                    <p class="card-text">{{ obj.description }}</p>
-                                    <h4>$ {{ obj.price }}</h4>
-                                </div>
-                            </a>
-                        </div>
-                    {% endfor %}
-                    </div>
-                </div>
-                <div id="non-priority" class="tab-pane fade">
-                    <div class="card-columns">
-                    {% for obj in secondary reversed %}
-                        <div class="card">
-                            <a href="{{ obj.link }}" target="_blank">
-                                <div class="card-block">
-                                    <h4 class="card-title">{{ obj.name }}</h4>
-                                </div>
-                                {% if obj.img %}<img src="{{ obj.img }}" alt="Card image"/>{% endif %}
-                                <div class="card-block">
-                                    <p class="card-text">{{ obj.description }}</p>
-                                    <h4>$ {{ obj.price }}</h4>
-                                </div>
-                            </a>
-                        </div>
-                    {% endfor %}
-                    </div>
-                </div>
-            </div> -->
         </div>
     </section>
 
@@ -105,13 +46,13 @@
     <section class="success" id="portfolio">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-xs-center section-header">
+                <div class="col-lg-12 text-center section-header">
                     <h2 class="section-heading">Purchased / Reserved Gifts</h2>
                     {% include heart.html type="primary" %}
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-12 text-xs-center">
+                <div class="col-lg-12 text-center">
                     <div class="card-columns">
                     {% for obj in purchased reversed %}
                         <div class="card">
