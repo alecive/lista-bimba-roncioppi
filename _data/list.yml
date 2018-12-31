@@ -118,7 +118,7 @@
   img: https://images-na.ssl-images-amazon.com/images/I/61E3byuQiiL._SX522_.jpg
   link: https://www.amazon.com/dp/B07GFBMQ8Q/?coliid=I2V67R0K5WGFN2&colid=1JBRPK59LMJXU&psc=0
   important: true
-  taken: false
+  taken: true
 
 - name: Cappelini
   description: In America l'usanza è di tenere i bimbi avvolti in copertine con solo cappellini e calzine. Per questo c'è abbondante necessità di cappellini!
@@ -213,7 +213,7 @@
   price: 15.99
   img: https://images-na.ssl-images-amazon.com/images/I/41ffsMj47qL.jpg
   link: https://www.amazon.com/dp/B07GFK3YFF/?coliid=I3F2ZUVWVC83BU&colid=1JBRPK59LMJXU&psc=0
-  taken: false
+  taken: true
 
 - name: Copertina
   description: Copertina/Sacco maglia fuori pellicciosa dentro (Per combattere il freddo che ci attende!)
@@ -255,7 +255,7 @@
   price: 4.32
   img: https://images-na.ssl-images-amazon.com/images/I/619sVEczCcL._SX522_.jpg
   link: https://www.amazon.com/dp/B0081ZOWC8/?coliid=I1RFJ1LQIU0PKN&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1
-  taken: false
+  taken: true
 
 - name: Scopettino
   description: Pulisci Biberon
@@ -276,7 +276,7 @@
   price: 29.99
   img: https://images-na.ssl-images-amazon.com/images/I/71rG8rX%2BC8L._SX522_.jpg
   link: https://www.amazon.com/Boppy-Nursing-Pillow-Positioner-Naked/dp/B000KW5I6E/ref=pd_rhf_ee_s_cp_0_1?_encoding=UTF8&pd_rd_i=B000KW5I6E&pd_rd_r=2ca4ff94-97b3-4553-ba6d-f67cf507848c&pd_rd_w=PWWuB&pd_rd_wg=WNPGZ&psc=1&refRID=95R4W13HJV3ZYSE9JQ6B
-  taken: false
+  taken: true
 
 - name: Crema portatile
   description: 3 Paste protettive per la salute del sederino
@@ -304,7 +304,7 @@
   price: 12.99
   img: https://images-na.ssl-images-amazon.com/images/I/71wN1loVwSL._SX522_.jpg
   link: https://www.amazon.com/dp/B07DNTFSG7/?coliid=I1VTPMQKA1PRHT&colid=1JBRPK59LMJXU&psc=0
-  taken: false
+  taken: true
 
 - name: Pasta protettiva
   description: Super crema per il sederino!
@@ -325,7 +325,7 @@
   price: 134.63
   img: https://images-na.ssl-images-amazon.com/images/I/61vhn3qXNML._SY679_.jpg
   link: https://www.amazon.com/dp/B01BGVM0G8/ref=twister_B07GRGZRWQ?_encoding=UTF8&coliid=I8ZQZKDWQSK7J&colid=1JBRPK59LMJXU&th=1
-  taken: false
+  taken: true
 
 - name: Scopettino
   description: Pulisci Biberon
