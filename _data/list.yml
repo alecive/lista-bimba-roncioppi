@@ -54,9 +54,7 @@
   img: https://images-na.ssl-images-amazon.com/images/I/71NAgJYOg5L._SL1001_.jpg
   link: https://www.amazon.com/dp/B075SGNNBN/?coliid=I20GX4B32R6M4Z&colid=1JBRPK59LMJXU&th=1
   important: true
-  taken: true
-  purchaser: Zio Marco
-  message: Benvenuta Principessa :*
+  taken: false
 
 - name: Copertina
   description: Anti-Freddo Continentale!
@@ -64,7 +62,9 @@
   img: https://images-na.ssl-images-amazon.com/images/I/611Cam0vohL._SX522_.jpg
   link: https://www.amazon.com/dp/B079MHV1TP/?coliid=I2TO18SAMLN6CA&colid=1JBRPK59LMJXU&th=1
   important: true
-  taken: false
+  taken: true
+  purchaser: Zio Marco
+  message: Benvenuta Principessa :*
 
 - name: Palestrina
   description: Sappiamo ben come trascorrerà la maggior parte del suo tempo con questo "gioco"!
@@ -330,6 +330,7 @@
   img: https://images-na.ssl-images-amazon.com/images/I/61vhn3qXNML._SY679_.jpg
   link: https://www.amazon.com/dp/B01BGVM0G8/ref=twister_B07GRGZRWQ?_encoding=UTF8&coliid=I8ZQZKDWQSK7J&colid=1JBRPK59LMJXU&th=1
   taken: true
+  purchaser: Daddi, Laura, Elisa, Ceci, Cinciu
 
 - name: Scopettino
   description: Pulisci Biberon
