@@ -54,7 +54,9 @@
   img: https://images-na.ssl-images-amazon.com/images/I/71NAgJYOg5L._SL1001_.jpg
   link: https://www.amazon.com/dp/B075SGNNBN/?coliid=I20GX4B32R6M4Z&colid=1JBRPK59LMJXU&th=1
   important: true
-  taken: false
+  taken: true
+  purchaser: Zio Marco
+  message: Benvenuta Principessa :*
 
 - name: Copertina
   description: Anti-Freddo Continentale!
