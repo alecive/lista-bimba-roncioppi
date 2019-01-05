@@ -70,7 +70,9 @@
   img: https://images-na.ssl-images-amazon.com/images/I/91aFjEAp9NL._SX522_.jpg
   link: https://www.amazon.com/dp/B00DJPKA76/?coliid=I36IXLRF73LE8Z&colid=1JBRPK59LMJXU&psc=0
   important: true
-  taken: false
+  taken: true
+  purchaser: Zio Marco
+  message: Benvenuta Principessa :*
 
 - name: Jumper
   description: Dopo 9 mesi nella pancia della mamma, facendo Judo, giocando a Tennis, correndo e saltando la bimba non potrà che amare il jumper!
