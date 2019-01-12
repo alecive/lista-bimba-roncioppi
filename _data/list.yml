@@ -14,7 +14,8 @@
   img: https://images-na.ssl-images-amazon.com/images/I/91uhre9e3YL._SX522_.jpg
   link: https://www.amazon.com/dp/B0791W6RVQ/?coliid=I2UXSBISZSKE0X&colid=1JBRPK59LMJXU&th=1
   important: true
-  taken: false
+  taken: true
+  purchaser: Benny & Luca
 
 - name: Seduta doppia per bici e corsa
   description: Come potrebbero quei due folli dei genitori vivere nella patria mondiale dello sport e non essere dotati di questo oggetto??? Vi promettiamo che aspetteremo i 6 mesi della bimba prima di utilizzarlo, poi nulla ci vieterà di scorrazzare con entrambi i nani tenendoci in forma!
@@ -322,7 +323,9 @@
   price: 95.89
   img: https://images-na.ssl-images-amazon.com/images/I/718hi6CYBhL._SX522_.jpg
   link: https://www.amazon.com/dp/B0194QWCMY/?coliid=I3NZAKZT2UB5Y0&colid=1JBRPK59LMJXU&psc=0&ref_=lv_ov_lig_dp_it
-  taken: false
+  taken: true
+  purchaser: Emma & Polly's families
+  message: Un piccolo pensiero per te piccola Lily, non vediamo l'ora di conoscerti e coccolarti 😍con questo regalo il tuo fratellino potrà controllarti sempre e prendersi cura di te..we Miss you❤
 
 - name: Culla
   description: Confortevole per la nanna e reversibile in fasciatoio.
@@ -331,6 +334,7 @@
   link: https://www.amazon.com/dp/B01BGVM0G8/ref=twister_B07GRGZRWQ?_encoding=UTF8&coliid=I8ZQZKDWQSK7J&colid=1JBRPK59LMJXU&th=1
   taken: true
   purchaser: Daddi, Laura, Elisa, Ceci, Cinciu
+  message: ...alla nostra piccola e dolce principessa💕che tu posso dormire e sognare nella meravigliosa culla...non vediamo l’ora di coccolarti e spupazzarti tutta!!! Ti prenotiamo già una giornata intera con noi❤
 
 - name: Scopettino
   description: Pulisci Biberon
