@@ -55,7 +55,9 @@
   img: https://images-na.ssl-images-amazon.com/images/I/71NAgJYOg5L._SL1001_.jpg
   link: https://www.amazon.com/dp/B075SGNNBN/?coliid=I20GX4B32R6M4Z&colid=1JBRPK59LMJXU&th=1
   important: true
-  taken: false
+  taken: yes
+  purchaser: Ale & Fra
+  message: 1kg di Sale e Neve per te!
 
 - name: Copertina
   description: Anti-Freddo Continentale!
@@ -91,7 +93,9 @@
   img: https://images-na.ssl-images-amazon.com/images/I/81gNwFYQREL._SX522_.jpg
   link: https://www.amazon.com/dp/B01N5K0VLV/?coliid=I1BCI9O0DW0Z0A&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1
   important: true
-  taken: false
+  taken: yes
+  purchaser: Dal tuo personal photographer!
+  message: In attesa di poterti riempire di scatti :)
 
 - name: Lenzuola
   description: Lettino
@@ -187,7 +191,9 @@
   img: https://images-na.ssl-images-amazon.com/images/I/61QfQqG4WfL._SL1000_.jpg
   link: https://www.amazon.com/dp/B076C8LMH2/?coliid=I3RTVCDPXHZAH5&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1&psc=1
   important: true
-  taken: false
+  taken: true
+  purchaser: Ale & Fra
+  message: Solo per vere amanti del caldo :)
 
 - name: Body
   description: 5 adorabili body dalle rosee tonalità.
