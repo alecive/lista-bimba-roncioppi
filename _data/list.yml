@@ -16,6 +16,7 @@
   important: true
   taken: true
   purchaser: Benny & Luca
+  message: Per cullarti con piu delicatezza di quella che avremmo noi....benvenuta Lily!!
 
 - name: Seduta doppia per bici e corsa
   description: Come potrebbero quei due folli dei genitori vivere nella patria mondiale dello sport e non essere dotati di questo oggetto??? Vi promettiamo che aspetteremo i 6 mesi della bimba prima di utilizzarlo, poi nulla ci vieterà di scorrazzare con entrambi i nani tenendoci in forma!
@@ -375,7 +376,8 @@
   price: 18.99
   img: https://images-na.ssl-images-amazon.com/images/I/71aJn728DeL._SX522_.jpg
   link: https://www.amazon.com/dp/B001V9EVCM/?coliid=I2O4LIH7YYSGER&colid=1JBRPK59LMJXU&ref_=lv_ov_lig_dp_it&th=1
-  taken: false
+  taken: true
+  purchaser: Ale & Fra
 
 
 
