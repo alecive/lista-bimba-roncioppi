@@ -32,11 +32,14 @@
   img: https://images-na.ssl-images-amazon.com/images/I/71NdTkhX2rL._SY679_.jpg
   link: https://www.amazon.com/dp/B079W46W4L/?coliid=I2QEBZG2JB3I6P&colid=1JBRPK59LMJXU&th=1
   important: true
-  taken: false
+  taken: yes
+  purchaser: Famiglia Roncone
+  message: e molto piu'!
+
 
 - name: Passeggino
   description: Leggero e maneggevole:Ideale per i viaggiatori, e come ben sappiamo la bimba sarà sarà una poliglotta.
-  price: 239.95
+  price: 299.95
   img: https://images-na.ssl-images-amazon.com/images/I/61kr1wBsqKL._SX522_.jpg
   link: https://www.amazon.com/dp/B07C6S1V2W/?coliid=IMSTMRBHKORP3&colid=1JBRPK59LMJXU&th=1
   important: false
@@ -168,7 +171,9 @@
   img: https://images-na.ssl-images-amazon.com/images/I/81g3y-Hgb8L._SX522_.jpg
   link: https://www.amazon.com/dp/B01FCIWYKI/?coliid=IRPC2PKJW7QDM&colid=1JBRPK59LMJXU&th=1
   important: true
-  taken: false
+  taken: yes
+  purchaser: Zii Stefano & Paola
+  message: questi e molto altro!
 
 - name: Bavaglini Anti-Rigurgito
   description: 5 asciugamani a protezione di couli/lei che si accinge ad eseguire il ruttino post-pappa!
@@ -302,14 +307,18 @@
   price: 13.99
   img: https://images-na.ssl-images-amazon.com/images/I/7126yPDkNaL._SX522_.jpg
   link: https://www.amazon.com/dp/B0787RQQ5L/?coliid=I3EQYQNQE2LAHK&colid=1JBRPK59LMJXU&th=1
-  taken: false
+  taken: yes
+  purchaser: Bellomo Family
+  message: e non solo questo...
 
 - name: materassino per fasciatoio
   description: lavabile e waterproof
   price: 17.99
   img: https://images-na.ssl-images-amazon.com/images/I/81%2Bev0VHJHL._SX522_.jpg
   link: https://www.amazon.com/Summer-Infant-Contoured-Changing-Pad/dp/B009EDSWJA/ref=pd_sbs_75_5?_encoding=UTF8&pd_rd_i=B009EDSWJA&pd_rd_r=c1533e2a-f7fb-11e8-b350-efdd314ccdb1&pd_rd_w=OyJA8&pd_rd_wg=TItqB&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=J3MX5R89YCWVCBT008YA&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&refRID=J3MX5R89YCWVCBT008YA&th=1
-  taken: false
+  taken: yes
+  purchaser: Bellomo Family
+  message: e non solo questo...
 
 - name: Federa per cuscino allattamento
   description: 2 cover
